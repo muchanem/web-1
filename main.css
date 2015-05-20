@@ -1,0 +1,130 @@
+/*Replace the link below this to your logo link*/
+div.logo {background-image:url('http://mc-sg.org/i/logo2.png');
+background-repeat: no-repeat;
+text-indent: -999px;
+position: relative;
+left: 218px;
+top: -15px;
+}
+
+
+.container {
+  margin-right: auto;
+  margin-left: auto;
+  background-color: transparent;
+  border-color: transparent;
+  *zoom: 1;
+}
+.logo {
+  color: transparent;
+  text-size: 1px;
+}
+body { 
+  background-color: transparent;
+  background-image: url('http://i1114.photobucket.com/albums/k521/ModzMalo/body-bg_zps3f0615cd.png');
+}
+.navbar-inner {
+  background: url(http://i1114.photobucket.com/albums/k521/ModzMalo/sadasdas_zpse5c20bcc.png);
+        background-position: top;
+}
+.box-container .header {
+        background-image: url(http://i1114.photobucket.com/albums/k521/ModzMalo/sadasdas_zpse5c20bcc.png);
+        color: #fff;
+}
+
+.navbar .nav > li > a {
+  float: none;
+  padding: 10px 15px 10px;
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+  text-shadow: 0 1px 0 #000;
+}
+
+.navbar .nav > li > a:focus,
+.navbar .nav > li > a:hover {
+  color: orange;
+  text-decoration: none;
+  background-color: transparent;
+}
+
+.navbar .nav > .active > a,
+.navbar .nav > .active > a:focus {
+  color: #3f3f3f;
+  text-decoration: none;
+  background-color: orange;
+  text-shadow: 0px 0px #ffffff;
+  -webkit-box-shadow: inset 0 3px 8px rgba(255, 255, 255, 0.125);
+     -moz-box-shadow: inset 0 3px 8px rgba(0, 0, 0, 0.125);
+          box-shadow: inset 0 3px 8px rgba(0, 0, 0, 0.125);
+}
+
+.navbar .nav > .active > a,
+.navbar .nav > .active > a:hover {
+  color: #3f3f3f;
+  text-decoration: none;
+  background-color: orange;
+  text-shadow: 0px 0px #ffffff;
+  -webkit-box-shadow: inset 0 3px 8px rgba(255, 255, 255, 0.125);
+     -moz-box-shadow: inset 0 3px 8px rgba(0, 0, 0, 0.125);
+          box-shadow: inset 0 3px 8px rgba(0, 0, 0, 0.125);
+}
+
+.box {
+	width: 860px;
+	margin-top: 50px;
+	background-color: rgba(224, 224, 224, 0.5);
+	-moz-box-shadow: 0 0 10px #1a1a18;
+	-webkit-box-shadow: 0 0 10px #1a1a18;
+	box-shadow: 0 0 5px #736F6E;
+	border: 0px solid #000000;
+}
+
+.table-striped tbody > tr:nth-child(odd) > td,
+.table-striped tbody > tr:nth-child(odd) > th {
+  background-color: #e5e5e5;
+}
+
+table {
+  background-color: #f9f9f9;
+}
+
+.btn-info {
+  color: #ffffff;
+  text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
+  background-color: #faa732;
+  *background-color: #f89406;
+  background-image: -moz-linear-gradient(top, #fbb450, #f89406);
+  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#fbb450), to(#f89406));
+  background-image: -webkit-linear-gradient(top, #fbb450, #f89406);
+  background-image: -o-linear-gradient(top, #fbb450, #f89406);
+  background-image: linear-gradient(to bottom, #fbb450, #f89406);
+  background-repeat: repeat-x;
+  border-color: #f89406 #f89406 #ad6704;
+  border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#fffbb450', endColorstr='#fff89406', GradientType=0);
+  filter: progid:DXImageTransform.Microsoft.gradient(enabled=false);
+}
+
+.btn-info:hover,
+.btn-info:focus,
+.btn-info:active,
+.btn-info.active,
+.btn-info.disabled,
+.btn-info[disabled] {
+  color: #ffffff;
+  background-color: #f89406;
+  *background-color: #df8505;
+}
+
+.table th,
+.table td {
+  border-top: 1px solid #dddddd;
+}
+
+.checkout {
+
+    position: relative;
+    left: -8px;
+    top: 66px;
+}
